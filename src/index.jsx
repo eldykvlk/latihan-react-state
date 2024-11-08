@@ -10,7 +10,7 @@ class MyForm extends React.Component {
         this.state = {
             name: '',
             email: '',
-            gender: 'Man'
+            gender: ''
         };
 
          // binding this context to event handler
